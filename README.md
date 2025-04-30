@@ -8,8 +8,8 @@ pip install --upgrade pip
 
 pip install termcolor names requests python-cfonts pyfiglet fake-useragent
 
-git clone https://github.com/seedhe-maut-2/is-maut.git
+git clone https://github.com/cyberblood53/CYBER-BLOOD.git
 
-cd is-maut
+cd CYBER BLOOD
 
-python insta.py
+python CYBER BLOOD.py
